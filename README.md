@@ -9,7 +9,7 @@ Artificial Intelligence Project
 3. Create conda environment with the configuration file `flask.yml`
    - `conda env create -f flask.yml`
 4. Activate the conda environment
-   - `conda activate heart`
+   - `conda activate flask`
 5. Run **main.py**
    - `python main.py`
 6. It will run on `http://localhost:5000` or `http://127.0.0.1:5000` by default
